@@ -42,3 +42,15 @@ Tableau及其竞品
 - 字节的DataWind: https://www.volcengine.com/product/datawind
 - 腾讯
 - 阿里
+
+## 工作流
+
+云服务：
+- AWS
+- Google Cloud
+- 腾讯云
+- 阿里云
+
+开源：
+- AirFlow
+

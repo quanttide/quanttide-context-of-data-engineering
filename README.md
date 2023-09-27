@@ -2,11 +2,15 @@
 
 ## 数据云 
 
+国外厂商：
 - [DataBricks]()
 - [Snowflake]()
 - [AWS EMR]()
 - [Google Cloud Dataproc]()
 - [Azure HDInsight]()
+
+国内厂商：
+- [DataFocus](https://www.datafocus.ai)
 
 ### DataBricks
 
@@ -38,6 +42,10 @@
 国内：
 
 - [OpenDataLab](https://opendatalab.org.cn/)
+
+## 计算平台
+
+- [深势科技](https://dp.tech)
 
 ## BI云
 

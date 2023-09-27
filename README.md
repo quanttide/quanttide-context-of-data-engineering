@@ -12,6 +12,11 @@
 
 - [融到I轮，估值3000亿](https://mp.weixin.qq.com/s?__biz=MzI4MjYxMTYyNA==&mid=2247508033&idx=1&sn=2357fcd941e4cf074ee1a2b775eee1dd&chksm=eb95ba86dce2339099436bdc9ccc8b242cdb99abb8cd1fe18c72a36e33b37d2f7a66f50c5bec&mpshare=1&scene=1&srcid=0925B96Sfc3B0qUjxyDjlfTS&sharer_shareinfo=d0ac571aa537f6fc798b35ce7c46d1f1&sharer_shareinfo_first=d0ac571aa537f6fc798b35ce7c46d1f1&version=4.1.10.1004&platform=mac#rd)
 
+## AIGC云
+
+- [Dify](https://dify.ai)
+- [百度智能云千帆大模型平台](https://cloud.baidu.com/wenxin.html#百度智能云千帆大模型平台)
+
 ## 元数据管理
 
 统一管理不同来源的数据库和存储。

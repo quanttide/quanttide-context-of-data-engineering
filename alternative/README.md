@@ -69,6 +69,30 @@ Tableau及其竞品
 
 ## 待调研竞品名单
 
-- https://mp.weixin.qq.com/s/7JYEwm0SdlKAVFqD5KSazQ
-- https://mp.weixin.qq.com/s/u_PZNMUzOgeC9eV0tlRyLw
+### LarkMidTable（云雀数据中台）
+
+- **官网**: 开源数据中台
+- **简介**: 一站式开源数据中台，实现元数据管理、数据仓库开发、数据质量管理、数据可视化，提供数据服务
+- **产品愿景**:
+  1. 满足小企业需求，提供一站式解决方案
+  2. 打造世界级别、媲美BAT大厂的产品
+  3. 创造价值，让世界变得更加美好
+- **技术选型**:
+  | 组件 | 用途 |
+  |------|------|
+  | ClickHouse/Doris | 离线数仓 |
+  | Kafka | 实时数仓 |
+  | DataX/FlinkX | 数据集成 |
+  | Flink/FlinkCDC/SeaTunnel | 数据开发 |
+  | Prometheus | 数据监控 |
+  | Druid | 数据服务 |
+  | Datart | 数据可视化 |
+  | CDH | 大数据平台 |
+  | DolphinScheduler | 任务调度 |
+- **核心能力**: 任务调度、元数据管理、数据质量、实时/离线数仓、数据血缘、数据资产
+- **运行环境**: Windows/Linux/MacOS, Java 8, MySQL 5.7, Python
+- **源码获取**: 公众号"契机科技"回复"云雀"
+- **参考链接**: https://mp.weixin.qq.com/s/u_PZNMUzOgeC9eV0tlRyLw
+
+> 注：第一个参考链接（mp.weixin.qq.com/s/7JYEwm0SdlKAVFqD5KSazQ）已被作者删除。
 

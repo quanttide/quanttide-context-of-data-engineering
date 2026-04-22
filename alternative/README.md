@@ -71,28 +71,35 @@ Tableau及其竞品
 
 ### LarkMidTable（云雀数据中台）
 
-- **官网**: 开源数据中台
 - **简介**: 一站式开源数据中台，实现元数据管理、数据仓库开发、数据质量管理、数据可视化，提供数据服务
-- **产品愿景**:
-  1. 满足小企业需求，提供一站式解决方案
-  2. 打造世界级别、媲美BAT大厂的产品
-  3. 创造价值，让世界变得更加美好
-- **技术选型**:
-  | 组件 | 用途 |
-  |------|------|
-  | ClickHouse/Doris | 离线数仓 |
-  | Kafka | 实时数仓 |
-  | DataX/FlinkX | 数据集成 |
-  | Flink/FlinkCDC/SeaTunnel | 数据开发 |
-  | Prometheus | 数据监控 |
-  | Druid | 数据服务 |
-  | Datart | 数据可视化 |
-  | CDH | 大数据平台 |
-  | DolphinScheduler | 任务调度 |
+- **技术选型**: ClickHouse/Doris, Kafka, DataX/FlinkX, Flink/FlinkCDC/SeaTunnel, Prometheus, Druid, Datart, CDH, DolphinScheduler
 - **核心能力**: 任务调度、元数据管理、数据质量、实时/离线数仓、数据血缘、数据资产
-- **运行环境**: Windows/Linux/MacOS, Java 8, MySQL 5.7, Python
-- **源码获取**: 公众号"契机科技"回复"云雀"
 - **参考链接**: https://mp.weixin.qq.com/s/u_PZNMUzOgeC9eV0tlRyLw
 
-> 注：第一个参考链接（mp.weixin.qq.com/s/7JYEwm0SdlKAVFqD5KSazQ）已被作者删除。
+### 数据可视化 Agent / LLM 数据分析方案
+
+- 数据可视化Agent-企业应用中基于LLM的数据分析方案 - 平凡的程序猿的文章 - 知乎: https://zhuanlan.zhihu.com/p/681364650
+- 参考链接: https://mp.weixin.qq.com/s/_DwyZoWwUDYFr3pvo_RamQ
+
+### Databend
+
+- 数据所在，计算随行：Databend 的 2023 年度总结 - Databend的文章 - 知乎: https://zhuanlan.zhihu.com/p/682591599
+- 头条文章: https://www.toutiao.com/article/7359379567364047370/
+
+### 其他参考链接
+
+- https://mp.weixin.qq.com/s/oGgAHunEPAE9gJiSjftzbA
+- https://mp.weixin.qq.com/s/VeFE_qJoaEoRbx6B9xatOw
+- https://mp.weixin.qq.com/s/G-ex6R4_F9ErOH4qV9U_jA
+- https://mp.weixin.qq.com/s/zob3Gg14-CFbiQpa-ebHuw
+- https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=7326355763473940799
+- https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=7331705224958050599
+- https://www.zhihu.com/question/277391687/answer/3381351200
+- https://mp.weixin.qq.com/s/1F5NOC74chxhY9iiVpG9aA
+- https://mp.weixin.qq.com/s/EhgrOs9I3LalGhI3I2iFDQ
+- https://mp.weixin.qq.com/s/V4GA1df0CB1-WM777oq-oQ
+- https://mp.weixin.qq.com/s/AbvGMDnM1-4jUKRPXrkPsQ
+- https://mp.weixin.qq.com/s/_Y5apSBJspY6fNctVbWiTQ
+
+> 注：issue 原始链接 mp.weixin.qq.com/s/7JYEwm0SdlKAVFqD5KSazQ 已被作者删除。
 
